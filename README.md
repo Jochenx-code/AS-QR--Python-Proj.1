@@ -28,5 +28,4 @@ Main file: `Attendance System(QR CODE).py`
 
 ---
 
-## 📂 Files
 
